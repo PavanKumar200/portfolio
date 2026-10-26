@@ -3,7 +3,7 @@
 export const profile = {
   name: 'Pavankumar S',
   firstName: 'Pavan',
-  role: 'AI/ML Engineer & Full-Stack Developer',
+  role: 'Full-Stack Software Developer',
   email: 'pavancheery600@gmail.com',
   phone: '+91 88613 29951',
   location: 'Chamarajpet, Bangalore — 18',

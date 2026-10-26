@@ -55,7 +55,7 @@ export default function Hero({ ready }) {
         <motion.div variants={char} className="mb-6 inline-flex items-center gap-2">
           <span className="glass rounded-full px-4 py-1.5 font-mono text-xs text-white/70">
             <span className="mr-2 inline-block h-2 w-2 animate-pulseGlow rounded-full bg-lime-400" />
-            Open to AI/ML & Full-Stack roles
+            Open to Junior Software Roles
           </span>
         </motion.div>
 
